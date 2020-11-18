@@ -1,0 +1,25 @@
+#node_modules
+node_modules
+
+#dist
+dist
+*.zip
+*.rar
+
+#package-lock.json
+package-lock.json
+
+*.sh
+
+# yarn.lock
+yarn.lock
+
+# .log
+*.log
+
+.DS_STORE
+*~
+*.sublime-project
+*.sublime-workspace
+.idea
+.vscode
